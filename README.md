@@ -47,3 +47,14 @@ Because of the nature of Node JS, we can pass specific commands into its program
         ... which means that LIRI will use the command `spotify-this-song` and look up the title "I Want It That Way".
 
 For this app, I painstakingly wrote all of the code (with the help of some hints by the homework instructions and other resources) to make LIRI functional. 
+
+![Alt text](/relative/path/to/1.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/2.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/3.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/4.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/5.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/6.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/7.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/8.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/9.png?raw=true "Optional Title")
+
