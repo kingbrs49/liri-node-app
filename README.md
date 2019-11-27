@@ -48,13 +48,12 @@ Because of the nature of Node JS, we can pass specific commands into its program
 
 For this app, I painstakingly wrote all of the code (with the help of some hints by the homework instructions and other resources) to make LIRI functional. 
 
-![Alt text](/relative/path/to/1.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/2.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/3.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/4.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/5.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/6.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/7.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/8.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/9.png?raw=true "Optional Title")
-
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/1.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/2.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/3.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/4.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/5.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/6.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/7.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/8.png)
+![Alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/9.png)
