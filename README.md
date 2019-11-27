@@ -47,7 +47,3 @@ Because of the nature of Node JS, we can pass specific commands into its program
         ... which means that LIRI will use the command `spotify-this-song` and look up the title "I Want It That Way".
 
 For this app, I painstakingly wrote all of the code (with the help of some hints by the homework instructions and other resources) to make LIRI functional. 
-
-
-Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading in this assignment.
-
