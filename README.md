@@ -48,12 +48,12 @@ Because of the nature of Node JS, we can pass specific commands into its program
 
 For this app, I painstakingly wrote all of the code (with the help of some hints by the homework instructions and other resources) to make LIRI functional. 
 
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/1.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/2.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/3.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/4.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/5.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/6.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/7.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/8.png)
-![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/branch/path/to/9.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/1.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/2.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/3.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/4.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/5.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/6.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/7.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/8.png)
+![Alt text](https://raw.githubusercontent.com/kingbrs49/liri-node-app/master/path/to/9.png)
